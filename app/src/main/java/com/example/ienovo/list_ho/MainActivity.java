@@ -96,7 +96,6 @@ public class MainActivity extends Activity {
                             JSONArray array_2 = jsonObject.getJSONArray("results");
 
                           //  Toast.makeText(MainActivity.this, "jj"+array_2, Toast.LENGTH_LONG).show();
-
                          // Log.e("loooooooooooooooool",array_2.toString());
 
                             for (int i =array_2.length()-1 ; i >=0; i--) {
