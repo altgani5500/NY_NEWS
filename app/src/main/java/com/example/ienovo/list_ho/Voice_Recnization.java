@@ -89,6 +89,8 @@ public class Voice_Recnization extends Activity {
                     txtSpeechInput.setText(result.get(0));
 
                    get_text=txtSpeechInput.getText().toString();
+
+
                     if(get_text=="load data" || get_text.equals("load data")){
 
                         Intent go_showlist = new Intent(Voice_Recnization.this, MainActivity.class);

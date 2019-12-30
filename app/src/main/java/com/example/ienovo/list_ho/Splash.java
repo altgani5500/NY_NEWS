@@ -28,7 +28,7 @@ public class Splash extends Activity {
                                                      public void run () {
 
 
-    Intent i = new Intent(Splash.this,MainActivity.class);
+    Intent i = new Intent(Splash.this,Voice_Recnization.class);
     startActivity(i);
 
      finish();
