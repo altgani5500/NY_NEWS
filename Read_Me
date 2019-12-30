@@ -1,0 +1,9 @@
+NY_news app :
+it's show Most Popular Articles 
+
+#created with java code using androidstudio IDE
+#using volly l to conected to net work
+#using google voice reqonization to reqonize the voice
+#using junit to make unit test for conection functaion "loaddata()"
+#using JSONObject to recive data from API 
+#using recyclerView to filter and show data
